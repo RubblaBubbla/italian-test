@@ -286,7 +286,7 @@ strings = {
 					"name": {
 						"name": {
 							"en-US": "name",
-							"it": "nome"
+							"it": "nome",
 						},
 						"description": {
 							"en-US": "Character's display name (usually given name)",
